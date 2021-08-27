@@ -30,5 +30,3 @@ function calculateSum(dob) {
 }
 
 checkNumberButton.addEventListener('click',checkBirthDateIsLucky)
-
-// "2012-12-01"

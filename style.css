@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 :root {
-  --primary-dark: #1F2937;
+  --primary-color: black;
   
 }
 
 body {
-  /* background-color: var(--primary-dark); */
   color: var(--primary-dark);
   font-family: 'Montserrat', sans-serif;
   background-color: peachpuff
@@ -46,8 +45,8 @@ input {
   margin: auto;
   margin-top: 1rem;
   background: transparent;
-  color: var(--primary-dark);
-  border-color: var(--primary-dark);
+  color: var(--primary-color);
+  border-color: var(--primary-color);
   border-width: small;
   padding: 0.5rem;
   border-radius: 0.3rem;
@@ -58,7 +57,7 @@ input {
 .social-link{
     text-decoration: none;
     margin: 0rem 0.5rem;
-    color: var(--primary-dark);
+    color: var(--primary-color);
 }
 
     .container {
