@@ -43,12 +43,12 @@ input {
 
 #check-number {
   display: block;
-  margin-top: 1rem;
   margin: auto;
+  margin-top: 1rem;
   background: transparent;
-  color: var(--primary-green);
+  color: var(--primary-dark);
   border-color: var(--primary-dark);
-  border-width: medium;
+  border-width: small;
   padding: 0.5rem;
   border-radius: 0.3rem;
 }
@@ -81,6 +81,7 @@ input {
     border-radius: 2rem;
     width: 300px;
     margin-bottom: 2rem;
+    margin-top: 2rem;
     background-color: #FF9933;
     
 }
